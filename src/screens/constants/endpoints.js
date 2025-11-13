@@ -1,0 +1,1 @@
+export const mockApi="https://jsonplaceholder.typicode.com/posts"
